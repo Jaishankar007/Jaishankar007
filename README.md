@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaishankar007
 - 👀 I’m interested in Competitive Coding, Ros
-- 🌱 I’m currently learning Ros2, Data science, Machine learning 
-- 💞️ I’m looking to collaborate on Ros and machine learning projects
+- 🌱 I’m currently learning ROS2, Data science, Machine learning 
+- 💞️ I’m looking to collaborate on ROS and machine learning projects
 - 📫 You can reach me in LinkedIn ID: Jaishankar A
 - 😄 Pronouns: Robotics Engineer 
 - ⚡ College: Amrita Vishwa Vidyapeetham
